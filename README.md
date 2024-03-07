@@ -1,6 +1,6 @@
 # msrv-bump
 
-Finds MSRV bumps in packages according to the `rust-version` field. Uses the (crates.io)[https://crates.io/] API.
+Finds MSRV bumps in packages according to the `rust-version` field. Uses the [crates.io](https://crates.io/) API.
 
 Usage:
 ```
